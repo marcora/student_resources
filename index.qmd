@@ -1,11 +1,25 @@
 ---
-title: "student_resources"
+title: "Student resources"
 ---
 
-This is a Quarto website.
+## Data science
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
 
-```{r}
-1 + 1
-```
+## Probability theory
+
+## Statistics
+
+-   [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + \[R companion\](https://statsthinking21.github.io/statsthinki\>
+
+-   [Regression Models for Data Science in R](https://leanpub.com/regmods)
+
+## Frequentist inference
+
+## Bayesian inference
+
+## Biostatistics
+
+-   [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/)
+
+-   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)

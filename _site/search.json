@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Student resources",
+    "section": "",
+    "text": "The Art of Data Science"
+  },
+  {
+    "objectID": "index.html#probability-theory",
+    "href": "index.html#probability-theory",
+    "title": "Student resources",
+    "section": "Probability theory",
+    "text": "Probability theory"
+  },
+  {
+    "objectID": "index.html#statistics",
+    "href": "index.html#statistics",
+    "title": "Student resources",
+    "section": "Statistics",
+    "text": "Statistics\n\nStatistical Thinking for the 21st Century + [R companion](https://statsthinking21.github.io/statsthinki>\nRegression Models for Data Science in R"
+  },
+  {
+    "objectID": "index.html#frequentist-inference",
+    "href": "index.html#frequentist-inference",
+    "title": "Student resources",
+    "section": "Frequentist inference",
+    "text": "Frequentist inference"
+  },
+  {
+    "objectID": "index.html#bayesian-inference",
+    "href": "index.html#bayesian-inference",
+    "title": "Student resources",
+    "section": "Bayesian inference",
+    "text": "Bayesian inference"
+  },
+  {
+    "objectID": "index.html#biostatistics",
+    "href": "index.html#biostatistics",
+    "title": "Student resources",
+    "section": "Biostatistics",
+    "text": "Biostatistics\n\nApplied Statistics for Experimental Biology\nModern Statistics for Modern Biology"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Compilation of resources for students/postdocs in the lab."
+  }
+]
