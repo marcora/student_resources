@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Student resources",
     "section": "",
-    "text": "Mindless statistics and Fisher, Neyman-Pearson or NHST? A tutorial for teaching data testing (journal articles)\nBernoulli’s fallacy (book)"
+    "text": "Mindless statistics and Fisher, Neyman-Pearson or NHST? A tutorial for teaching data testing (journal articles)\nBernoulli’s fallacy (book)\nDétente: A Practical Understanding of P values and Bayesian Posterior Probabilities (journal article)"
   },
   {
     "objectID": "index.html#probability-theory",
@@ -32,7 +32,7 @@
     "href": "index.html#bayesian-inference",
     "title": "Student resources",
     "section": "Bayesian inference",
-    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (book, also available here)\nStatistical Rethinking (book) + companion R package\n\nStatistical Rethinking 2022 (online course)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)\n\nBayesian statistics and modelling (journal article)\nBayesian Analysis Reporting Guidelines (journal article)\nApplication of Bayesian approaches in drug development: starting a virtuous cycle (journal article)"
+    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (book, also available here)\nBayesian data analysis for newcomers (journal article)\nStatistical Rethinking (book) + companion R package\n\nStatistical Rethinking 2022 (online course)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)\n\nBayesian statistics and modelling (journal article)\nBayesian Analysis Reporting Guidelines (journal article)\nApplication of Bayesian approaches in drug development: starting a virtuous cycle (journal article)"
   },
   {
     "objectID": "index.html#biostatistics",

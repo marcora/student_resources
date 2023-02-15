@@ -7,6 +7,7 @@ author: "Edoardo \"Dado\" Marcora"
 
 -   [Mindless statistics](https://www.sciencedirect.com/science/article/pii/S1053535704000927) and [Fisher, Neyman-Pearson or NHST? A tutorial for teaching data testing](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00223/full) (journal articles)
 -   [Bernoulli's fallacy](https://cup.columbia.edu/book/bernoullis-fallacy/9780231199957) (book)
+-   [Détente: A Practical Understanding of *P* values and Bayesian Posterior Probabilities](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2004) (journal article)
 
 ## Data science
 
@@ -26,6 +27,8 @@ author: "Edoardo \"Dado\" Marcora"
 ## Bayesian inference
 
 -   [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/) (book, also available [here](https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis))
+
+-   [Bayesian data analysis for newcomers](https://link.springer.com/article/10.3758/s13423-017-1272-1) (journal article)
 
 -   [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) (book) + [companion R package](https://github.com/rmcelreath/rethinking)
 
