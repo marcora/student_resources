@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Student resources",
     "section": "",
-    "text": "Mindless statistics"
+    "text": "Mindless statistics (journal article)\nBernoulli’s fallacy (book)"
   },
   {
     "objectID": "index.html#probability-theory",
@@ -39,7 +39,7 @@
     "href": "index.html#biostatistics",
     "title": "Student resources",
     "section": "Biostatistics",
-    "text": "Biostatistics\n\nApplied Statistics for Experimental Biology\nModern Statistics for Modern Biology"
+    "text": "Biostatistics\n\n>>Applied Statistics for Experimental Biology<<\nModern Statistics for Modern Biology"
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "index.html#statisticsfrequentist-inference",
     "title": "Student resources",
     "section": "Statistics/Frequentist inference",
-    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion\nIntroduction to Modern Statistics"
+    "text": "Statistics/Frequentist inference\n\n>>Statistical Thinking for the 21st Century + R companion<<\nIntroduction to Modern Statistics"
   },
   {
     "objectID": "index.html#data-science",
