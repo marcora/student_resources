@@ -35,6 +35,12 @@ author: "Edoardo \"Dado\" Marcora"
 
     -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) (video lecture by same author about causal inference)
 
+-   [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2) (journal article)
+
+-   [Bayesian Analysis Reporting Guidelines](https://www.nature.com/articles/s41562-021-01177-7) (journal article)
+
+-   [Application of Bayesian approaches in drug development: starting a virtuous cycle](https://www.nature.com/articles/s41573-023-00638-0) (journal article)
+
 ## Biostatistics
 
 -   [**Applied Statistics for Experimental Biology**](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) (book)
