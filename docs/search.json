@@ -39,7 +39,7 @@
     "href": "index.html#biostatistics",
     "title": "Student resources",
     "section": "Biostatistics",
-    "text": "Biostatistics\n\nApplied Statistics for Experimental Biology (book)\nModern Statistics for Modern Biology (book)"
+    "text": "Biostatistics\n\nApplied Statistics for Experimental Biology (book)\nModern Statistics for Modern Biology (book)\n\n\n\n\n\n\n\nThe frequentist approach evaluates evidence from a single new experiment, most often using a p-value as a measure for deciding whether a hypothesis is true or false. The Bayesian approach formally and statistically quantifies prior knowledge (\\(D_0\\)) about a hypothesis (\\(H\\)) in the form of a prior probability (\\(P_0\\)), which is then combined with the evidence from a new experiment (\\(D_N\\)) to compute a posterior probability (\\(P_1\\)) about the veracity of that hypothesis. The posterior probability can be recycled as input to form the prior for a subsequent experiment, thereby creating a virtuous cycle of synthesizing scientific knowledge about a hypothesis.\nhttps://www.nature.com/articles/s41573-023-00638-0/figures/1"
   },
   {
     "objectID": "about.html",
