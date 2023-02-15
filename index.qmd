@@ -1,5 +1,6 @@
 ---
 title: "Student resources"
+author: "Edoardo \"Dado\" Marcora"
 ---
 
 ## Data science
