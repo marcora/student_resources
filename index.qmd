@@ -5,9 +5,8 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## The status quo
 
--   [Mindless statistics](https://www.sciencedirect.com/science/article/pii/S1053535704000927) and [Fisher, Neyman-Pearson or NHST? A tutorial for teaching data testing](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00223/full) (journal articles)
+-   [Mindless statistics](https://www.sciencedirect.com/science/article/pii/S1053535704000927) (journal article)
 -   [Bernoulli's fallacy](https://cup.columbia.edu/book/bernoullis-fallacy/9780231199957) (book)
--   [Détente: A Practical Understanding of *P* values and Bayesian Posterior Probabilities](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2004) (journal article)
 
 ## Data science
 
@@ -43,6 +42,8 @@ author: "Edoardo \"Dado\" Marcora"
     -   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
 
     -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) (video lecture by same author about causal inference)
+
+-   [Détente: A Practical Understanding of *P* values and Bayesian Posterior Probabilities](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2004) (journal article)
 
 -   [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2) (journal article)
 
