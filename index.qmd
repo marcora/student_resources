@@ -11,6 +11,7 @@ author: "Edoardo \"Dado\" Marcora"
 ## Data science
 
 -   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
+-   [R for Data Science](https://r4ds.had.co.nz/)
 
 ## Probability theory
 
