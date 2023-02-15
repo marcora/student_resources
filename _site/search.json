@@ -18,7 +18,7 @@
     "href": "index.html#statistics",
     "title": "Student resources",
     "section": "Statistics",
-    "text": "Statistics\n\nStatistical Thinking for the 21st Century + [R companion](https://statsthinking21.github.io/statsthinki>\nRegression Models for Data Science in R"
+    "text": "Statistics\n\nStatistical Thinking for the 21st Century + R companion\nRegression Models for Data Science in R"
   },
   {
     "objectID": "index.html#frequentist-inference",
@@ -32,7 +32,7 @@
     "href": "index.html#bayesian-inference",
     "title": "Student resources",
     "section": "Bayesian inference",
-    "text": "Bayesian inference"
+    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (available here)\nStatistical Rethinking + companion R package\n\nStatistical Rethinking 2022 (full course video lectures)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)"
   },
   {
     "objectID": "index.html#biostatistics",
@@ -47,5 +47,12 @@
     "title": "About",
     "section": "",
     "text": "Compilation of resources for students/postdocs in the lab."
+  },
+  {
+    "objectID": "index.html#statisticsfrequentist-inference",
+    "href": "index.html#statisticsfrequentist-inference",
+    "title": "Student resources",
+    "section": "Statistics/Frequentist inference",
+    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion\nRegression Models for Data Science in R"
   }
 ]

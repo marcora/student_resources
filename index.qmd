@@ -8,15 +8,23 @@ title: "Student resources"
 
 ## Probability theory
 
-## Statistics
+## Statistics/Frequentist inference
 
--   [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + \[R companion\](https://statsthinking21.github.io/statsthinki\>
+-   [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
 
 -   [Regression Models for Data Science in R](https://leanpub.com/regmods)
 
-## Frequentist inference
-
 ## Bayesian inference
+
+-   [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/) (available [here](https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis))
+
+-   [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) + [companion R package](https://github.com/rmcelreath/rethinking)
+
+    -   [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) (full course video lectures)
+
+    -   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
+
+    -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) **(**video lecture by same author about causal inference)
 
 ## Biostatistics
 
