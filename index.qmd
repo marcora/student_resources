@@ -19,7 +19,7 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## Statistics/Frequentist inference
 
--   \>\>[Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/) (book)\<\<
+-   [**Statistical Thinking for the 21st Century**](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/) (book)
 
 -   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (book)
 
@@ -37,6 +37,6 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## Biostatistics
 
--   \>\>[Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) (book)\<\<
+-   [**Applied Statistics for Experimental Biology**](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) (book)
 
 -   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) (book)
