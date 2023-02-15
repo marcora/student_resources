@@ -33,7 +33,7 @@ author: "Edoardo \"Dado\" Marcora"
 
     -   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
 
-    -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) **(**video lecture by same author about causal inference)
+    -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) (video lecture by same author about causal inference)
 
 ## Biostatistics
 
