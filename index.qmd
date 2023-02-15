@@ -13,7 +13,7 @@ author: "Edoardo \"Dado\" Marcora"
 
 -   [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
 
--   [Regression Models for Data Science in R](https://leanpub.com/regmods)
+-   [Regression Models for Data Science in R](https://leanpub.com/regmods) + [companion Coursera course](https://www.coursera.org/learn/regression-models)
 
 ## Bayesian inference
 
