@@ -5,31 +5,31 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## The status quo
 
--   [Mindless statistics](https://www.sciencedirect.com/science/article/pii/S1053535704000927) (journal article)
+-   [Mindless statistics](https://www.sciencedirect.com/science/article/pii/S1053535704000927) and [Fisher, Neyman-Pearson or NHST? A tutorial for teaching data testing](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00223/full) (journal articles)
 -   [Bernoulli's fallacy](https://cup.columbia.edu/book/bernoullis-fallacy/9780231199957) (book)
 
 ## Data science
 
--   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
--   [R for Data Science](https://r4ds.had.co.nz/)
+-   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) (book)
+-   [R for Data Science](https://r4ds.had.co.nz/) (book)
 
 ## Probability theory
 
--   [Introduction to Probability](http://athenasc.com/probbook.html) + [companion MIT course](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/) or [companion edX course](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+-   [Introduction to Probability](http://athenasc.com/probbook.html) (book) + [companion MIT online course](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/) or [companion edX online course](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 
 ## Statistics/Frequentist inference
 
--   \>\>[Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/)\<\<
+-   \>\>[Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/) (book)\<\<
 
--   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+-   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (book)
 
 ## Bayesian inference
 
--   [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/) (available [here](https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis))
+-   [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/) (book, also available [here](https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis))
 
--   [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) + [companion R package](https://github.com/rmcelreath/rethinking)
+-   [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) (book) + [companion R package](https://github.com/rmcelreath/rethinking)
 
-    -   [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) (full course video lectures)
+    -   [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) (online course)
 
     -   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
 
@@ -37,6 +37,6 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## Biostatistics
 
--   \>\>[Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/)\<\<
+-   \>\>[Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) (book)\<\<
 
--   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+-   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) (book)

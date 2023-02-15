@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Student resources",
     "section": "",
-    "text": "Mindless statistics (journal article)\nBernoulli’s fallacy (book)"
+    "text": "Mindless statistics and Fisher, Neyman-Pearson or NHST? A tutorial for teaching data testing (journal articles)\nBernoulli’s fallacy (book)"
   },
   {
     "objectID": "index.html#probability-theory",
     "href": "index.html#probability-theory",
     "title": "Student resources",
     "section": "Probability theory",
-    "text": "Probability theory\n\nIntroduction to Probability + companion MIT course or companion edX course"
+    "text": "Probability theory\n\nIntroduction to Probability (book) + companion MIT online course or companion edX online course"
   },
   {
     "objectID": "index.html#statistics",
@@ -32,14 +32,14 @@
     "href": "index.html#bayesian-inference",
     "title": "Student resources",
     "section": "Bayesian inference",
-    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (available here)\nStatistical Rethinking + companion R package\n\nStatistical Rethinking 2022 (full course video lectures)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)"
+    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (book, also available here)\nStatistical Rethinking (book) + companion R package\n\nStatistical Rethinking 2022 (online course)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)"
   },
   {
     "objectID": "index.html#biostatistics",
     "href": "index.html#biostatistics",
     "title": "Student resources",
     "section": "Biostatistics",
-    "text": "Biostatistics\n\n>>Applied Statistics for Experimental Biology<<\nModern Statistics for Modern Biology"
+    "text": "Biostatistics\n\n>>Applied Statistics for Experimental Biology (book)<<\nModern Statistics for Modern Biology (book)"
   },
   {
     "objectID": "about.html",
@@ -53,13 +53,13 @@
     "href": "index.html#statisticsfrequentist-inference",
     "title": "Student resources",
     "section": "Statistics/Frequentist inference",
-    "text": "Statistics/Frequentist inference\n\n>>Statistical Thinking for the 21st Century + R companion<<\nIntroduction to Modern Statistics"
+    "text": "Statistics/Frequentist inference\n\n>>Statistical Thinking for the 21st Century + R companion (book)<<\nIntroduction to Modern Statistics (book)"
   },
   {
     "objectID": "index.html#data-science",
     "href": "index.html#data-science",
     "title": "Student resources",
     "section": "Data science",
-    "text": "Data science\n\nThe Art of Data Science\nR for Data Science"
+    "text": "Data science\n\nThe Art of Data Science (book)\nR for Data Science (book)"
   }
 ]
