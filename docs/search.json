@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Student resources",
     "section": "",
-    "text": "The Art of Data Science"
+    "text": "Mindless statistics"
   },
   {
     "objectID": "index.html#probability-theory",
@@ -53,6 +53,13 @@
     "href": "index.html#statisticsfrequentist-inference",
     "title": "Student resources",
     "section": "Statistics/Frequentist inference",
-    "text": "Statistics/Frequentist inference\n\nIntroduction to Modern Statistics\nStatistical Thinking for the 21st Century + R companion"
+    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion\nIntroduction to Modern Statistics"
+  },
+  {
+    "objectID": "index.html#data-science",
+    "href": "index.html#data-science",
+    "title": "Student resources",
+    "section": "Data science",
+    "text": "Data science\n\nThe Art of Data Science"
   }
 ]

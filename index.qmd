@@ -3,6 +3,10 @@ title: "Student resources"
 author: "Edoardo \"Dado\" Marcora"
 ---
 
+## The status quo
+
+-   [Mindless statistics](https://www.sciencedirect.com/science/article/pii/S1053535704000927)
+
 ## Data science
 
 -   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
@@ -13,9 +17,9 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## Statistics/Frequentist inference
 
--   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
-
 -   [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
+
+-   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
 
 ## Bayesian inference
 
