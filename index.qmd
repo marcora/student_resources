@@ -13,6 +13,8 @@ author: "Edoardo \"Dado\" Marcora"
 
 ## Statistics/Frequentist inference
 
+-   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+
 -   [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/)
 
 ## Bayesian inference
