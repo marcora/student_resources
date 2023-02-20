@@ -11,7 +11,7 @@
     "href": "index.html#probability-theory",
     "title": "Student resources",
     "section": "Probability theory",
-    "text": "Probability theory\n\nIntroduction to Probability (book) + companion MIT online course or companion edX online course"
+    "text": "Probability theory\n\nA First Course in Probability, Sheldon Ross\nIntroduction to Probability (book) + companion MIT online course or companion edX online course"
   },
   {
     "objectID": "index.html#statistics",
@@ -32,14 +32,14 @@
     "href": "index.html#bayesian-inference",
     "title": "Student resources",
     "section": "Bayesian inference",
-    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (book, also available here)\nBayesian data analysis for newcomers (journal article)\nStatistical Rethinking (book) + companion R package\n\nStatistical Rethinking 2022 (online course)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)\n\nDétente: A Practical Understanding of P values and Bayesian Posterior Probabilities (journal article)\nBayesian statistics and modelling (journal article)\nBayesian Analysis Reporting Guidelines (journal article)\nApplication of Bayesian approaches in drug development: starting a virtuous cycle (journal article)\n\n\n\n\n\n\nThe frequentist approach evaluates evidence from a single new experiment, most often using a p-value as a measure for deciding whether a hypothesis is true or false. The Bayesian approach formally and statistically quantifies prior knowledge (\\(D_0\\)) about a hypothesis (\\(H\\)) in the form of a prior probability (\\(P_0\\)), which is then combined with the evidence from a new experiment (\\(D_N\\)) to compute a posterior probability (\\(P_1\\)) about the veracity of that hypothesis. The posterior probability can be recycled as input to form the prior for a subsequent experiment, thereby creating a virtuous cycle of synthesizing scientific knowledge about a hypothesis.\nhttps://www.nature.com/articles/s41573-023-00638-0/figures/1"
+    "text": "Bayesian inference\n\nDoing Bayesian Data Analysis (book, also available here)\nBayesian data analysis for newcomers (journal article)\nStatistical Rethinking (book) + companion R package\nStatistical Rethinking 2022 (online course)\nBayesian inference is just counting (one video lecture version of course above)\nScience Before Statistics: Causal Inference (video lecture by same author about causal inference)\nDétente: A Practical Understanding of P values and Bayesian Posterior Probabilities (journal article)\nBayesian statistics and modelling (journal article)\nBayesian Analysis Reporting Guidelines (journal article)\nApplication of Bayesian approaches in drug development: starting a virtuous cycle (journal article)\n\n\n\n\n\n\nThe frequentist approach evaluates evidence from a single new experiment, most often using a p-value as a measure for deciding whether a hypothesis is true or false. The Bayesian approach formally and statistically quantifies prior knowledge (\\(D_0\\)) about a hypothesis (\\(H\\)) in the form of a prior probability (\\(P_0\\)), which is then combined with the evidence from a new experiment (\\(D_N\\)) to compute a posterior probability (\\(P_1\\)) about the veracity of that hypothesis. The posterior probability can be recycled as input to form the prior for a subsequent experiment, thereby creating a virtuous cycle of synthesizing scientific knowledge about a hypothesis.\nhttps://www.nature.com/articles/s41573-023-00638-0/figures/1"
   },
   {
     "objectID": "index.html#biostatistics",
     "href": "index.html#biostatistics",
     "title": "Student resources",
     "section": "Biostatistics",
-    "text": "Biostatistics\n\nApplied Statistics for Experimental Biology (book)\nModern Statistics for Modern Biology (book)"
+    "text": "Biostatistics\n\nApplied Statistics for Experimental Biology (online book)\nModern Statistics for Modern Biology (online book)"
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "index.html#statisticsfrequentist-inference",
     "title": "Student resources",
     "section": "Statistics/Frequentist inference",
-    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion (book)\nIntroduction to Modern Statistics (book)"
+    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion (online book)\nIntroduction to Modern Statistics (online book)\nThe Art of Statistics: How to learn from data, David Spiegelhalter (book)\nIntroduction to Probability, Statistics, and Random Processes (online book)\nRegression Analysis: A practical introduction, Jeremy Arkes (book)"
   },
   {
     "objectID": "index.html#data-science",
@@ -61,5 +61,12 @@
     "title": "Student resources",
     "section": "Data science",
     "text": "Data science\n\nThe Art of Data Science (book)\nR for Data Science (book)"
+  },
+  {
+    "objectID": "index.html#math",
+    "href": "index.html#math",
+    "title": "Student resources",
+    "section": "Math",
+    "text": "Math\n\nIntroduction to Linear Algebra, Gilbert Strang (book)\nCalculus: Early Transcendentals, James Stewart (book)"
   }
 ]

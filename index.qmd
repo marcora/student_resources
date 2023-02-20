@@ -13,21 +13,28 @@ author: "Edoardo \"Dado\" Marcora"
 -   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) (book)
 -   [R for Data Science](https://r4ds.had.co.nz/) (book)
 
+## Math
+
+-   [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/), Gilbert Strang (book)
+-   [Calculus: Early Transcendentals](https://www.stewartcalculus.com/), James Stewart (book)
+
 ## Probability theory
 
+-   [A First Course in Probability](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-probability-a/P200000006334), Sheldon Ross
 -   [Introduction to Probability](http://athenasc.com/probbook.html) (book) + [companion MIT online course](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/) or [companion edX online course](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 
 ## Statistics/Frequentist inference
 
--   [**Statistical Thinking for the 21st Century**](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/) (book)
-
--   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (book)
+-   [**Statistical Thinking for the 21st Century**](https://statsthinking21.github.io/statsthinking21-core-site/) + [R companion](https://statsthinking21.github.io/statsthinking21-R-site/) (online book)
+-   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (online book)
+-   [The Art of Statistics: How to learn from data](https://www.basicbooks.com/titles/david-spiegelhalter/the-art-of-statistics/9781541618527/), David Spiegelhalter (book)
+-   [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) (online book)
+-   [Regression Analysis: A practical introduction](https://www.routledge.com/Regression-Analysis-A-Practical-Introduction/Arkes/p/book/9781032257839), Jeremy Arkes (book)
 
 ## Biostatistics
 
--   [**Applied Statistics for Experimental Biology**](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) (book)
-
--   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) (book)
+-   [**Applied Statistics for Experimental Biology**](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) (online book)
+-   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) (online book)
 
 ## Bayesian inference
 
@@ -37,11 +44,11 @@ author: "Edoardo \"Dado\" Marcora"
 
 -   [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) (book) + [companion R package](https://github.com/rmcelreath/rethinking)
 
-    -   [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) (online course)
+-   [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) (online course)
 
-    -   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
+-   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
 
-    -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) (video lecture by same author about causal inference)
+-   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) (video lecture by same author about causal inference)
 
 -   [Détente: A Practical Understanding of *P* values and Bayesian Posterior Probabilities](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2004) (journal article)
 
