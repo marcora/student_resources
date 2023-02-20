@@ -39,23 +39,14 @@ author: "Edoardo \"Dado\" Marcora"
 ## Bayesian inference
 
 -   [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/) (book, also available [here](https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis))
-
 -   [Bayesian data analysis for newcomers](https://link.springer.com/article/10.3758/s13423-017-1272-1) (journal article)
-
 -   [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) (book) + [companion R package](https://github.com/rmcelreath/rethinking)
-
 -   [Statistical Rethinking 2022](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) (online course)
-
 -   [Bayesian inference is just counting](https://youtu.be/_NEMHM1wDfI) (one video lecture version of course above)
-
 -   [Science Before Statistics: Causal Inference](https://youtu.be/KNPYUVmY3NM) (video lecture by same author about causal inference)
-
 -   [Détente: A Practical Understanding of *P* values and Bayesian Posterior Probabilities](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2004) (journal article)
-
 -   [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2) (journal article)
-
 -   [Bayesian Analysis Reporting Guidelines](https://www.nature.com/articles/s41562-021-01177-7) (journal article)
-
 -   [Application of Bayesian approaches in drug development: starting a virtuous cycle](https://www.nature.com/articles/s41573-023-00638-0) (journal article)
 
 [![](images/image-518426885.png)](https://www.nature.com/articles/s41573-023-00638-0/figures/1)
