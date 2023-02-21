@@ -53,7 +53,7 @@
     "href": "index.html#statisticsfrequentist-inference",
     "title": "Student resources",
     "section": "Statistics/Frequentist inference",
-    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion (online book)\nIntroduction to Modern Statistics (online book)\nThe Art of Statistics: How to learn from data, David Spiegelhalter (book)\nIntroduction to Probability, Statistics, and Random Processes (online book)\nRegression Analysis: A practical introduction, Jeremy Arkes (book)"
+    "text": "Statistics/Frequentist inference\n\nStatistical Thinking for the 21st Century + R companion (online book)\nIntroduction to Modern Statistics (online book, see also Coursera courses by Mine Çetinkaya-Rundel below)\n\nIntroduction to Probability and Data with R\nInferential Statistics\nLinear Regression and Modeling\nBayesian Statistics\n\nThe Art of Statistics: How to learn from data, David Spiegelhalter (book)\nIntroduction to Probability, Statistics, and Random Processes (online book)\nRegression Analysis: A practical introduction, Jeremy Arkes (book)"
   },
   {
     "objectID": "index.html#data-science",
